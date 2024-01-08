@@ -1,2 +1,2 @@
 # odin-recipes
-# This is a webpage made with html that features various recipes. It has a homepage, headers, paragraphs, images and links that allow the user to navigate to different pages on the same site.
+# This is a webpage made with html that features various recipes. It has a homepage, headers, paragraphs, images, absolute links, and relative links that allow the user to navigate the webpage.
