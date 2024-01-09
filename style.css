@@ -1,0 +1,14 @@
+
+h1 {
+    font-size: 40px;
+    font-weight: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:darksalmon;
+    color:blanchedalmond;
+}
+.link {
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:darksalmon;
+    color:blanchedalmond;
+}
