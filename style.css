@@ -9,6 +9,7 @@ h1 {
     background-color:#34373d;
     color:blanchedalmond;
     margin: 10px auto;
+    text-align: center;
 
 }
 .link {
@@ -19,10 +20,39 @@ h1 {
     background-color:#34373d;
     color:blanchedalmond;
     margin: 50px auto;
+    text-align: center;
 }
 .myImage {
     display:block;
-    margin: 10px auto;
+    margin: 50px auto;
     
 
+}
+
+h2{
+    display: block;
+    text-align: center;
+    background-color:#34373d ;
+    color:blanchedalmond;
+    font-size: 30px;
+}
+
+p{
+    display: block;
+    text-align: left;
+    background-color:#34373d ;
+    color:blanchedalmond;
+    font-size: 16px;
+}
+ul,ol{
+    display: block;
+    text-align: left;
+    background-color:#34373d ;
+    color:blanchedalmond;
+    font-size: 16px;
+    margin:15px;
+}
+li {
+    margin: 10px;
+    padding: 15px;
 }
