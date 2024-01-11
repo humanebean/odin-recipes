@@ -1,14 +1,28 @@
-
+body {
+    background-color: #121314;
+}
 h1 {
+    display: block;
     font-size: 40px;
     font-weight: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color:darksalmon;
+    background-color:#34373d;
     color:blanchedalmond;
+    margin: 10px auto;
+
 }
 .link {
+    display: block;
+    text-align: left;
     font-size: 30px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:darksalmon;
+    background-color:#34373d;
     color:blanchedalmond;
+    margin: 50px auto;
+}
+.myImage {
+    display:block;
+    margin: 10px auto;
+    
+
 }
